@@ -240,4 +240,4 @@ This repository serves as the official landing page for Wilcom Truesizer. The so
 **Get the most recent version of Wilcom Truesizer today!**
 
 ---
-**Last updated:** 2026-09-30 00:58:07 UTC
+**Last updated:** 2026-09-30 06:23:15 UTC
